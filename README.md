@@ -1,6 +1,6 @@
-# 🌐 My Attendance Automation Web App
+# 🌐 Attendance Automation Web App
 
-This repository contains the source code for my **Attendance Automation System** hosted on Netlify 👉 [Live Demo](https://peaceful-sfogliatella-32ac18.netlify.app/).  
+This repository contains the source code for **Attendance Automation System** hosted on Netlify 👉 [Live Demo](https://peaceful-sfogliatella-32ac18.netlify.app/).  
 
 The project demonstrates an **automated attendance system** powered by **geo-fencing and a drop box categorization model** that classifies students into **Present**, **Late**, and **Absent** categories.  
 
